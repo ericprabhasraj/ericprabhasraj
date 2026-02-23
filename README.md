@@ -5,14 +5,17 @@
 📊 Passionate about AI, Time Series Forecasting & Real-world ML Applications  
 🚀 Building production-ready ML systems  
 
-🌐 **Portfolio:** https://strong-hotteok-fdcb86.netlify.app/
+🌐 **Portfolio:** https://prabhasraj-portfolio.netlify.app/
 
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://strong-hotteok-fdcb86.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhasraj-portfolio.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@prabhsrajp)
 
+---
+
+# 💻 Tech Stack:
 ---
 
 # 💻 Tech Stack:
