@@ -95,17 +95,4 @@ I am actively seeking:
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ericprabhasraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ericprabhasraj&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericprabhasraj&theme=dark&layout=compact)
-
----
-
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=ericprabhasraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=ericprabhasraj&icon=0&color=0)](https://visitcount.itsvg.in)
