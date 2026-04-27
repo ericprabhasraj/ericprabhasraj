@@ -60,14 +60,10 @@ Full-scale interactive dashboard exploring channel metrics, video performance, a
 ---
 
 ## 📈 Current Goals
-
-- Strengthening DSA for top tech interviews  
 - Building impactful ML & AI projects  
 - Contributing to open source  
 - Exploring real-time ML systems & deployments  
-
 ---
-
 ## 💼 Open To Opportunities
 
 I am actively seeking:
