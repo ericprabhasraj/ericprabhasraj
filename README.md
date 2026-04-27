@@ -1,1 +1,114 @@
-# 👋 Hi, I'm Prabhas Raj 🎓 MS in Data Science | B.Tech in Computer Science 💻 Aspiring Machine Learning Engineer | Data Scientist 🧠 I build interactive systems to make complex AI concepts intuitive 🚀 Focused on developing real-world, production-ready ML applications --- ## 🔥 Featured Project ### 🧠 Machine Learning Through Visualization 🔗 https://machinelearning-ai-eric.netlify.app/ 💻 https://github.com/ericprabhasraj/Machine_Learning_Through.Visualization- An interactive platform to **visualize and understand Machine Learning algorithms in real-time** ✨ Key Highlights: - 🎯 Decision Boundary Visualizer (KNN, Logistic Regression, SVM) - 🧠 Neural Network Simulator (custom layers & activations) - 📉 Gradient Descent Visualizer (optimization in action) - 📊 Probability & Bayes Module *(in progress)* - ⚡ Built using pure JavaScript (no external libraries) --- ## 🧩 What I Focus On - Machine Learning & Deep Learning - Data Structures & Algorithms - Data Science & Analytics - Building scalable, end-to-end ML systems - Cloud Computing (AWS, GCP, Azure) --- ## 📈 Current Goals - Strengthening DSA for top tech interviews - Building impactful ML & AI projects - Contributing to open source - Exploring real-time ML systems & deployments --- ## 💼 Open To Opportunities I am actively seeking: - Machine Learning Internships - Data Science Roles - AI/ML Engineering Opportunities 📬 Feel free to connect or reach out! --- ## 🌐 Portfolio & Links 🌐 Portfolio: https://prabhasraj-portfolio.netlify.app/ 🧠 ML Project: https://machinelearning-ai-eric.netlify.app/ ✍️ Medium: https://medium.com/@prabhsrajp --- ## 🌐 Socials [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhasraj-portfolio.netlify.app/) [![ML Project](https://img.shields.io/badge/ML%20Visualizer-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://machinelearning-ai-eric.netlify.app/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@prabhsrajp) --- # 💻 Tech Stack ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) --- [![](https://visitcount.itsvg.in/api?id=ericprabhasraj&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👋 Hi, I'm Prabhas Raj
+
+🎓 MS in Data Science | B.Tech in Computer Science  
+💻 Aspiring Machine Learning Engineer | Data Scientist | Data Analyst  
+
+🧠 I build interactive systems to make complex AI concepts intuitive  
+🚀 Focused on developing real-world, production-ready ML applications  
+
+---
+
+## 🔥 Featured Project
+
+### 🧠 Machine Learning Through Visualization  
+🔗 https://machinelearning-ai-eric.netlify.app/  
+💻 https://github.com/ericprabhasraj/Machine_Learning_Through.Visualization-
+
+An interactive platform to **visualize and understand Machine Learning algorithms in real-time**
+
+✨ Key Highlights:
+- 🎯 Decision Boundary Visualizer (KNN, Logistic Regression, SVM)  
+- 🧠 Neural Network Simulator (custom layers & activations)  
+- 📉 Gradient Descent Visualizer (optimization in action)  
+- 📊 Probability & Bayes Module *(in progress)*  
+- ⚡ Built using pure JavaScript (no external libraries)  
+
+---
+
+## 📊 Data Analytics Projects
+
+### 🎯 Aye Jude Channel Analysis  
+🔗 https://ayejude-insights-prabhas.netlify.app/  
+Complete performance analysis with viewer engagement metrics, growth trends, and content performance breakdowns.
+
+---
+
+### 🎯 Prasad Tech in Telugu Analysis  
+🔗 https://prasad-techtelugu-prabhas.netlify.app/  
+Deep dive into tech content engagement and audience behavior patterns.
+---
+### 🎯 Rajshamani Analytics Dashboard  
+🔗 https://rajsharmani-analytics-prabhas.netlify.app/  
+Full-scale interactive dashboard exploring channel metrics, video performance, and growth trajectory.
+--
+## 🧩 What I Focus On
+
+- Machine Learning & Deep Learning  
+- Data Science & Analytics  
+- Data Analysis & Visualization  
+- Building scalable, end-to-end ML systems  
+- Cloud Computing (AWS, GCP, Azure)  
+
+---
+
+## 📈 Current Goals
+
+- Strengthening DSA for top tech interviews  
+- Building impactful ML & AI projects  
+- Contributing to open source  
+- Exploring real-time ML systems & deployments  
+
+---
+
+## 💼 Open To Opportunities
+
+I am actively seeking:
+- Machine Learning Internships  
+- Data Science Roles  
+- Data Analyst Roles  
+
+📬 Feel free to connect or reach out!
+
+---
+
+## 🌐 Portfolio & Links
+
+🌐 Portfolio: https://prabhasraj-portfolio.netlify.app/  
+🧠 ML Project: https://machinelearning-ai-eric.netlify.app/  
+✍️ Medium: https://medium.com/@prabhsrajp  
+
+---
+
+## 🌐 Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabhasraj-portfolio.netlify.app/)
+[![ML Project](https://img.shields.io/badge/ML%20Visualizer-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://machinelearning-ai-eric.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@prabhsrajp)
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ericprabhasraj&icon=0&color=0)](https://visitcount.itsvg.in)
