@@ -1,10 +1,18 @@
 # 👋 Hi, I'm Prabhas Raj
 
 🎓 MS in Data Science | B.Tech in Computer Science  
-💻 Aspiring Machine Learning Engineer | Data Scientist | Data Analyst  
+💻 Aspiring Machine Learning Engineer | Data Scientist  
 
 🧠 I build interactive systems to make complex AI concepts intuitive  
 🚀 Focused on developing real-world, production-ready ML applications  
+
+---
+
+## 🌐 Portfolio & Links
+
+🌐 Portfolio: https://prabhasraj-portfolio.netlify.app/  
+🧠 ML Project: https://machinelearning-ai-eric.netlify.app/  
+✍️ Medium: https://medium.com/@prabhsrajp  
 
 ---
 
@@ -31,21 +39,21 @@ An interactive platform to **visualize and understand Machine Learning algorithm
 🔗 https://ayejude-insights-prabhas.netlify.app/  
 Complete performance analysis with viewer engagement metrics, growth trends, and content performance breakdowns.
 
----
-
 ### 🎯 Prasad Tech in Telugu Analysis  
 🔗 https://prasad-techtelugu-prabhas.netlify.app/  
 Deep dive into tech content engagement and audience behavior patterns.
----
+
 ### 🎯 Rajshamani Analytics Dashboard  
 🔗 https://rajsharmani-analytics-prabhas.netlify.app/  
 Full-scale interactive dashboard exploring channel metrics, video performance, and growth trajectory.
---
+
+---
+
 ## 🧩 What I Focus On
 
 - Machine Learning & Deep Learning  
+- Data Structures & Algorithms  
 - Data Science & Analytics  
-- Data Analysis & Visualization  
 - Building scalable, end-to-end ML systems  
 - Cloud Computing (AWS, GCP, Azure)  
 
@@ -63,19 +71,11 @@ Full-scale interactive dashboard exploring channel metrics, video performance, a
 ## 💼 Open To Opportunities
 
 I am actively seeking:
-- Machine Learning Internships  
+- Machine Learning Roles  
 - Data Science Roles  
-- Data Analyst Roles  
+- AI/ML Engineering Opportunities  
 
 📬 Feel free to connect or reach out!
-
----
-
-## 🌐 Portfolio & Links
-
-🌐 Portfolio: https://prabhasraj-portfolio.netlify.app/  
-🧠 ML Project: https://machinelearning-ai-eric.netlify.app/  
-✍️ Medium: https://medium.com/@prabhsrajp  
 
 ---
 
